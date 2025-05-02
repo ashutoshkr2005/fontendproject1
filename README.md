@@ -1,2 +1,2 @@
-# fontendproject1
-This is my first project in html ,css.
+# FrontendProjects
+This involves using HTML,CSS and JavaScript to create layouts,buttons,menus and other design elements.
